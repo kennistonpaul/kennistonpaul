@@ -1,22 +1,25 @@
 {
-	"movies": [
+	"albums": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Mr. Morale & the Big Steppers",
+			"Artist": "Kendrick Lamar",
+			"Genre": "Conscious hip hop; Minimalism",
+			"Release Date": "May 13, 2022"
+			"Personal Rating": "9.2"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "It's Almost Dry",
+			"Artist": "Pusha T",
+			"Genre": "Rap; Hip hop",
+			"Release Date": "April 22, 2022"
+			"Personal Rating": "8.7"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "The Forever Story",
+			"Artist": "JID",
+			"Genre": "Rap; Hip hop",
+			"Release Date": "August 26, 2022"
+			"Personal Rating": "9.3"
 		}
 	]
 }
